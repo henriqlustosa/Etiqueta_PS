@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etiquetas_Nova_Versao", "Etiquetas_Nova_Versao.csproj", "{1FD68AA1-2B86-474B-8A68-B18566D79514}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ETIQUETA_PS", "..\ETIQUETA_PS\ETIQUETA_PS.vdproj", "{902F98E6-3BCF-41AA-8E6A-C9DD1F423DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Debug|x64.ActiveCfg = Debug|x64
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Debug|x64.Build.0 = Debug|x64
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Release|x64.ActiveCfg = Release|x64
+		{1FD68AA1-2B86-474B-8A68-B18566D79514}.Release|x64.Build.0 = Release|x64
+		{902F98E6-3BCF-41AA-8E6A-C9DD1F423DFD}.Debug|Any CPU.ActiveCfg = Debug
+		{902F98E6-3BCF-41AA-8E6A-C9DD1F423DFD}.Debug|x64.ActiveCfg = Debug
+		{902F98E6-3BCF-41AA-8E6A-C9DD1F423DFD}.Release|Any CPU.ActiveCfg = Release
+		{902F98E6-3BCF-41AA-8E6A-C9DD1F423DFD}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
