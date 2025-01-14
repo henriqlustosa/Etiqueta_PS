@@ -19,3 +19,11 @@ C:\Users\h013026\OneDrive - Default Directory\Workspace_Etiqueta_Ps\Etiquetas_No
 C:\Users\h013026\OneDrive - Default Directory\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.Form1.resources
 C:\Users\h013026\OneDrive - Default Directory\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.Properties.Resources.resources
 C:\Users\h013026\OneDrive - Default Directory\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.csproj.GenerateResource.Cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.pdb
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\bin\Debug\Etiquetas_Nova_Versao.exe
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\bin\Debug\Etiquetas_Nova_Versao.pdb
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\ResolveAssemblyReference.cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.Form1.resources
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.Properties.Resources.resources
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.csproj.GenerateResource.Cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Etiqueta_PS_2024\Workspace_Etiqueta_Ps\Etiquetas_Nova_Versao\obj\Debug\Etiquetas_Nova_Versao.exe

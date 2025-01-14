@@ -39,6 +39,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // printDocument1
@@ -52,7 +54,7 @@
             // 
             // btImprimir
             // 
-            this.btImprimir.Location = new System.Drawing.Point(259, 331);
+            this.btImprimir.Location = new System.Drawing.Point(264, 199);
             this.btImprimir.Name = "btImprimir";
             this.btImprimir.Size = new System.Drawing.Size(75, 23);
             this.btImprimir.TabIndex = 0;
@@ -118,9 +120,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(195, 49);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(210, 25);
+            this.label3.Size = new System.Drawing.Size(253, 25);
             this.label3.TabIndex = 14;
-            this.label3.Text = "Etiquetas Internação";
+            this.label3.Text = "Etiquetas Pronto Socorro";
             // 
             // label4
             // 
@@ -129,13 +131,33 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(96, 13);
             this.label4.TabIndex = 15;
-            this.label4.Text = "Versão 0.1 (08/22)";
+            this.label4.Text = "Versão 0.2 (12/24)";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(507, 263);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(67, 13);
+            this.label5.TabIndex = 16;
+            this.label5.Text = "Versao 5.0.0";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(580, 263);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(65, 13);
+            this.label6.TabIndex = 17;
+            this.label6.Text = "14/01/2025";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(652, 391);
+            this.ClientSize = new System.Drawing.Size(652, 293);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -146,7 +168,7 @@
             this.Controls.Add(this.btImprimir);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Etiquetas";
+            this.Text = "Pronto Socorro";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -164,6 +186,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
     }
 }
 
